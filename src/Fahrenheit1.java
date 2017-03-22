@@ -11,3 +11,5 @@ public class Fahrenheit1 {
         System.out.println("Acesta este rezultatul in grade Celsius:"+b);
     }
 }
+
+//Nu uita sa dai - Commit Push
