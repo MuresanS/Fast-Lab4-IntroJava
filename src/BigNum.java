@@ -16,6 +16,7 @@ public class BigNum {
             SkeletonJava.printConsole(numar+" este mai mare.");
         }
 
+
     }
 }
 
