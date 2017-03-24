@@ -12,4 +12,4 @@ public class Fahrenheit1 {
     }
 }
 
-//Nu uita sa dai - Commit Push
+//Transformare din Celsius in Fahrenheit.
