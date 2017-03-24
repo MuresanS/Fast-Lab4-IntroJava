@@ -19,5 +19,3 @@ public class BigNum {
 
     }
 }
-
-// nu uita sa dai - Commit Push
