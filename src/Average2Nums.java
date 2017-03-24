@@ -16,5 +16,3 @@ public class Average2Nums {
 
     }
 }
-
-//nu uita sa dai - Commit Push
