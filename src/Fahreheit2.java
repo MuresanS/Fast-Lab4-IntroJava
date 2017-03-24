@@ -14,4 +14,4 @@ public class Fahreheit2 {
 
 }
 
-// nu uita sa dai - Commit Push
+// Transformare din Fahrenheit in Celsius.
